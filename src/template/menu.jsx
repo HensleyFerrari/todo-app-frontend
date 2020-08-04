@@ -14,6 +14,5 @@ export default props => (
                 </li>
             </ul>
         </div>
-
     </nav>
 )
